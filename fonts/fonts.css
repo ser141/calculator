@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Inter";
+    font-weight: 300;
+    font-style: normal;
+    src: url(Inter/Inter-Light.ttf) format("truetype"),
+}
+
+@font-face {
+    font-family: "SanFrancisco";
+    font-weight: 600;
+    font-style: normal;
+    src: url(SF/SFProText-Semibold.ttf) format("truetype");
+}

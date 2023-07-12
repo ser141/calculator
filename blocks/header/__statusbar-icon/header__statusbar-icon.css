@@ -1,0 +1,6 @@
+.header__statusbar-icon {
+    width: 17px;
+    height: 12px;
+    object-fit: cover;
+    object-position: center;
+}
