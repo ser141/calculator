@@ -1,5 +1,7 @@
 .screen {
     max-width: 350px;
+    height: 123px;
     margin: 0 auto;
     padding-top: 146px;
+    overflow: hidden;
 }

@@ -1,7 +1,8 @@
 .screen__number {
     max-width: 100%;
-    unicode-bidi: bidi-override;
-    direction: rtl;
+    display: grid;
+    justify-items: end;
+    align-items: end;
     margin: 0;
     font-size: 102px;
     line-height: 123px;
