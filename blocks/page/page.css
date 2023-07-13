@@ -1,7 +1,8 @@
 .page {
     width: 390px;
-    margin: 0 auto;
+    margin: auto;
     background-color: black;
     color: #fff;
     font-family: "Inter", Arial, sans-serif;
+    border-radius: 20px;
 }

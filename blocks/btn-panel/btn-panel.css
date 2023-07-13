@@ -1,0 +1,14 @@
+.btn-panel {
+    list-style: none;
+    padding: 0;
+    margin: 6px auto 0;
+    max-width: 360px;
+    display: grid;
+    grid-template-columns: repeat(4, min-content);
+    gap: 14px 15px;
+}
+
+.btn-panel:last-child {
+    margin-top: 15px;
+    padding-bottom: 41px;
+}

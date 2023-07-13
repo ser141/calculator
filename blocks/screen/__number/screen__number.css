@@ -1,0 +1,9 @@
+.screen__number {
+    max-width: 100%;
+    unicode-bidi: bidi-override;
+    direction: rtl;
+    margin: 0;
+    font-size: 102px;
+    line-height: 123px;
+    font-weight: 300;
+}

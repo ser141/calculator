@@ -7,3 +7,12 @@
 @import url(../blocks/header/__statusbar-icon/header__statusbar-icon.css);
 @import url(../blocks/header/__statusbar-icon/_el/header__statusbar-icon_el_wifi.css);
 @import url(../blocks/header/__statusbar-icon/_el/header__statusbar-icon_el_battery.css);
+@import url(../blocks/screen/screen.css);
+@import url(../blocks/screen/__number/screen__number.css);
+@import url(../blocks/btn-panel/btn-panel.css);
+@import url(../blocks/digit-btn/digit-btn.css);
+@import url(../blocks/digit-btn/_size/digit-btn_size_xl.css);
+@import url(../blocks/digit-btn/_color/digit-btn_color_light-gray.css);
+@import url(../blocks/digit-btn/_color/digit-btn_color_orange.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__line/footer__line.css);

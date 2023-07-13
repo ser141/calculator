@@ -1,0 +1,9 @@
+.digit-btn_color_light-gray {
+    background-color: #A5A5A5;
+    color: #000;
+    transition:  ease-in-out .2s;
+}
+
+.digit-btn_color_light-gray:active {
+    background-color: #FFFFFF;
+}
